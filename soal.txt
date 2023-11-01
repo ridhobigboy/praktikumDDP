@@ -1,0 +1,11 @@
+buatlah sebuah program python yang menghasilkan nilai dari perbandingan 2 variabel
+
+buat program python mengunakan if,elif dan else untuk konversi suhu
+
+buat program python untuk menampilkan status mahasiswa berdasrakan keaktifan nya 
+
+buat program kalkulator sederhana 
+
+untuk hasilnya dikumpulkan ke email : ridhobigboy@gmail.com
+
+maximal pengumpulan malam ini jam 01.00
